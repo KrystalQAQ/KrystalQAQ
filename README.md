@@ -3,9 +3,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 18 Contributions in the Year 2022
+> 🏆 20 Contributions in the Year 2022
  > 
-> 📦 13 Bytes Used in GitHub's Storage 
+> 📦 275 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,10 +30,15 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 42 mins        ████████████████████░░░░░   79.65% 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 33 mins        ██████████████████░░░░░░░   72.46% 
+VS Code                  35 mins             ███████░░░░░░░░░░░░░░░░░░   27.54%
 
 ```
 
@@ -50,6 +55,6 @@ Python                   1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/KrystalQAQ/KrystalQAQ/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2022 00:58:30 UTC
+ Last Updated on 12/09/2022 18:51:04 UTC
 <!--END_SECTION:waka-->
 ![KrystalQAQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrystalQAQ&show_icons=true&theme=radical)
