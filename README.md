@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 20 Contributions in the Year 2022
  > 
-> 📦 275 Bytes Used in GitHub's Storage 
+> 📦 276 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,15 +30,15 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 42 mins        ████████████████████░░░░░   79.65% 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32%
+Python                   4 hrs 15 mins       ██████████████████░░░░░░░   72.69% 
+JavaScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.58% 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21% 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
 
 🔥 Editors: 
-PyCharm                  1 hr 33 mins        ██████████████████░░░░░░░   72.46% 
-VS Code                  35 mins             ███████░░░░░░░░░░░░░░░░░░   27.54%
+PyCharm                  4 hrs 11 mins       ██████████████████░░░░░░░   71.59% 
+VS Code                  1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.41%
 
 ```
 
@@ -55,6 +55,6 @@ Python                   1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/KrystalQAQ/KrystalQAQ/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2022 18:51:04 UTC
+ Last Updated on 13/09/2022 18:49:57 UTC
 <!--END_SECTION:waka-->
 ![KrystalQAQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrystalQAQ&show_icons=true&theme=radical)
