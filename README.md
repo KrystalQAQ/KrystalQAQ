@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2056%20mins-blue)
 
 **I Mostly Code in Python** 
 
@@ -14,6 +14,6 @@ Python                   1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/KrystalQAQ/KrystalQAQ/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 18:52:36 UTC
+ Last Updated on 27/09/2022 18:58:04 UTC
 <!--END_SECTION:waka-->
 ![KrystalQAQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrystalQAQ&show_icons=true&theme=radical)
